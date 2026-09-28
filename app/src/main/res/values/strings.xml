@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">ConstraintLayout</string>
-    <string name="btn_one">Jeden</string>
-    <string name="btn_two">Dwa</string>
-    <string name="btn_three">Trzy</string>
+    <string name="logo">Logo</string>
+    <string name="cb_remember">Zapamiętaj mnie</string>
+    <string name="bt_sign">Zaloguj</string>
+    <string name="bt_remember_pwd">Nie pamiętam hasła</string>
 </resources>
